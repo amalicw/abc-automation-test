@@ -16,7 +16,7 @@ This will demonstrate automation skills for civey practical test
   * verify quote request popup loading.
   * enter details in the form fields.
   * click submit button.
-  * verify it has succesfully displyed the sucess message.
+  * verify it has succesfully displayed the success message.
 
 
 
