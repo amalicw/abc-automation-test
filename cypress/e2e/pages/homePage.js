@@ -4,9 +4,7 @@ class HomePage {
 
   // Actions
   visit() {
-    cy.visit(
-      "https://abc-company.com"
-    )
+    cy.visit("https://abc-company.com")
   }
 
   clickRequestQuoteBtn() {

@@ -10,10 +10,10 @@ describe("Quote Request Page", () => {
   it("should be able to submit quote successfully", () => {
     quoteReqest.verifyQuotePopup()
     quoteReqest.submitQuoteRequest({
-      fullName: 'John Doe',
-      email: 'johnDoe@gmail.com',
-      phoneNumber: '0123456789',
-      message: 'request a quote'
+      fullName: "John Doe",
+      email: "johnDoe@gmail.com",
+      phoneNumber: "0123456789",
+      message: "request a quote",
     })
     quoteReqest.verifyRequestSubmittedSuccesfully()
   })
