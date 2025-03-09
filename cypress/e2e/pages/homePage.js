@@ -5,7 +5,7 @@ class HomePage {
   // Actions
   visit() {
     cy.visit(
-      "https://qa-interview.app.omni.one/dashboards/do-not-use-qa-dashboard-popcorn-18388"
+      "https://abc-company.com"
     )
   }
 
