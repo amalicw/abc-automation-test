@@ -1,7 +1,7 @@
 {
-  "name": "civey-automation-test",
+  "name": "abc-automation-test",
   "version": "1.0.0",
-  "description": "This will demonstrate automation skills for civey practical test",
+  "description": "This will demonstrate automation skills for abc company practical test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
