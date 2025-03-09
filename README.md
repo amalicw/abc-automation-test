@@ -1,4 +1,4 @@
-# Civey Automation Test
+# ABC Company Automation Test
 This will demonstrate automation skills for abc company practical test
 
 ## Folder structure within e2e
